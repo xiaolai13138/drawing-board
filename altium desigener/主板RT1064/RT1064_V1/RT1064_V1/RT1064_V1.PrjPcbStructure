@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=RT1064_CoreBoard.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=RT1064_CoreBoard.SchDoc|FileName=RT1064_Device.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=RT1064_CoreBoard.SchDoc|FileName=RT1064_Interaction.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=RT1064_CoreBoard.SchDoc|FileName=RT1064_Power.SchDoc|SheetNumber=4
