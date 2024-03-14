@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P4 Old Footprint=DC3-6P-2.54mm New Footprint=IDC6-Z
+Change Component Footprint: Designator=P5 Old Footprint=DC3-6P-2.54mm New Footprint=IDC6-Z
+Added Member To Class: ClassName=RT1064_Device Member=Component UART2 Header-D-M 1x4P

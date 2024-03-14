@@ -1,0 +1,330 @@
+*************************************************************
+FileName = DRV8701EPCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : DRV8701EPCB_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : DRV8701EPCB_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : DRV8701EPCB_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DRV8701EPCB_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DRV8701EPCB_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DRV8701EPCB_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DRV8701EPCB_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DRV8701EPCB_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : DRV8701EPCB_Pads_Top.gbr
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : DRV8701EPCB_Pads_Bot.gbr
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : BOTTOM
+      File : DRV8701EPCB_Copper_Signal_Bot.gbr
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : POWER
+      File : DRV8701EPCB_Copper_Plane_2.gbr
+
+    Adding Layer      : POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : GND2
+      File : DRV8701EPCB_Copper_Plane_1.gbr
+
+    Adding Layer      : GND2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Top
+      File : DRV8701EPCB_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : DRV8701EPCB_Drawing_1.gbr
+
+    Adding Drill Pair : Top-BOTTOM
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : DRV8701EPCB_Drillmap_1.gbr
+
+    Adding Drill Pair : Top-BOTTOM
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : DRV8701EPCB_Profile.gbr
+
+
+Used DCodes :
+    D78
+*************************************************************
+

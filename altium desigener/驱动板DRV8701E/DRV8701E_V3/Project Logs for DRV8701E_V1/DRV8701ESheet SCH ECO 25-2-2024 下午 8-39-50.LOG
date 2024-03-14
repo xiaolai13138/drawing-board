@@ -1,0 +1,6 @@
+Remove Pin=U1-13 From Net=nSLEEP
+Remove Pin=U1-14 From Net=L_EN
+Remove Pin=U1-15 From Net=L_PH
+Remove Pin=U3-13 From Net=nSLEEP
+Remove Pin=U3-14 From Net=R_EN
+Remove Pin=U3-15 From Net=R_PH
