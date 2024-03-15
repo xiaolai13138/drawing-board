@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=C0 Pin=P14-3
+Removed Pin From Net: NetName=C1 Pin=P14-4
+Added Pin To Net: NetName=C1 Pin=P14-3
+Added Pin To Net: NetName=C0 Pin=P14-4
+Added Member To Class: ClassName=RT1064_Device Member=Component R4 10K ¡À1%
+Added Member To Class: ClassName=RT1064_Interaction Member=Component R30 100R ¡À1%
